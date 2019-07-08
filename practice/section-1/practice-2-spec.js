@@ -5,7 +5,7 @@ describe('practice-1-2', () => {
 
   const collectionA = ['a', 'e', 'h', 't', 'f', 'c', 'g', 'b', 'd'];
   const collectionB = [['a', 'd', 'e', 'f']];
-  function collectSameElements(collection1, collection1){
+  function collectSameElements(collection1, collection2){
     var result=[];
     var longA=collection1.length;
     var longB=collection2[0].length;
